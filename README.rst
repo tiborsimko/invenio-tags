@@ -13,7 +13,7 @@ Invenio module that adds support for record tagging by authenticated
 users.
 
 * Free software: GPLv2 license
-* Documentation: https://invenio-tags.readthedocs.org.
+* Documentation: https://invenio-tags.readthedocs.io.
 
 Features
 --------

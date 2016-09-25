@@ -23,7 +23,7 @@ Installation
 Documentation
 -------------
 
-   http://invenio-tags.readthedocs.org/en/v0.1.0
+   http://invenio-tags.readthedocs.io/en/v0.1.0
 
 Good luck and thanks for using Invenio Tags.
 
